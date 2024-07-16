@@ -1,20 +1,26 @@
-<<<<<<< HEAD
-# gemini
+# GenAi Application
 
-A new Flutter project.
+GenAi is a generative AI application powered by the Gemini AI API. It allows users to generate content using prompts, voice recognition, and image recognition, featuring multi-chat functionality for enhanced user interaction.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Content Generation**: Generate text-based content based on user prompts.
+- **Voice Recognition**: Utilize voice commands to create and manage content effortlessly.
+- **Image Recognition**: Analyze and generate content based on images.
+- **Multi-Chat Functionality**: Engage in multiple conversations simultaneously, enhancing user experience.
+- **User-Friendly Interface**: Intuitive design for seamless navigation and interaction.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Gemini AI API**: For content generation and recognition capabilities.
+- **Flutter**: For building a cross-platform mobile application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# GenAI-App
->>>>>>> origin/main
+## Screenshots
+
+| Output Images                                   |
+|------------------------------------------------|
+| <img src="screenshots/img1.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> <img src="screenshots/img2.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> <img src="screenshots/img3.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> |
+
+## Acknowledgments
+- Special thanks to the Gemini AI team for their innovative API.
+- Inspired by the potential of AI to enhance content creation.

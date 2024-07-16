@@ -17,9 +17,7 @@ GenAi is a generative AI application powered by the Gemini AI API. It allows use
 
 ## Screenshots
 
-| Output Images                                   |
-|------------------------------------------------|
-| <img src="screenshots/img1.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> <img src="screenshots/img2.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> <img src="screenshots/img3.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> |
+ <img src="screenshots/img0.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> <img src="screenshots/img1.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> <img src="screenshots/img2.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> <img src="screenshots/img3.jpg" width="150" height="320" style="margin-right: 30px; display: inline-block;"> 
 
 ## Acknowledgments
 - Special thanks to the Gemini AI team for their innovative API.
